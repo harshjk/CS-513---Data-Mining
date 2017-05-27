@@ -1,0 +1,6 @@
+Clustor Analysis - 3 types
+Classification - 5 Types(Not KNN)(NB, RF, Cart, C4.5, ANN)(ANN , RF --HIGH----- NB-Least priority)
+Missing value - find
+
+
+

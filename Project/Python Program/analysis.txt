@@ -1,0 +1,6 @@
+Total Jobs:450
+Total Python Skill Jobs:200Python Percentage: 44.44444444444444
+Total Big Data Skill Jobs:153Big Data Percentage: 34.0
+Total SAS Skill Jobs:61SAS Percentage: 13.555555555555557
+Total R Skill Jobs:128R Percentage: 28.444444444444443
+Total Machine Learning Skill Jobs:153Machine Learning Percentage: 34.0
